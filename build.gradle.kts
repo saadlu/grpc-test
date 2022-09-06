@@ -138,3 +138,7 @@ nexusPublishing {
         }
     }
 }
+
+tasks.withType<Test> {
+    useJUnitPlatform()
+}
