@@ -11,6 +11,9 @@ If you like it, consider becoming a
 
 [![](https://github.com/asarkar/grpc-test/workflows/CI%20Pipeline/badge.svg)](https://github.com/asarkar/grpc-test/actions?query=workflow%3A%22CI+Pipeline%22)
 
+Status badge on this fork
+[![CI Pipeline](https://github.com/saadlu/grpc-test/actions/workflows/ci.yml/badge.svg)](https://github.com/saadlu/grpc-test/actions/workflows/ci.yml)
+
 ## Installation
 
 You can find the latest version
